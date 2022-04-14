@@ -1,6 +1,9 @@
 # uva-pdm-a4
 A4 Programacao Dispositivos Móveis
 
+## Enunciado
+[Enunciado A4](Enunciado.md)
+
 ## Grupo:
 
 - Alexandre Koutroularis
