@@ -4,6 +4,9 @@ A4 Programacao Dispositivos Móveis
 ## Enunciado
 [Enunciado A4](Enunciado.md)
 
+## Resolucao
+[Parte 1](Parte1.md)
+
 ## Grupo:
 
 - Alexandre Koutroularis
